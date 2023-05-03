@@ -21,3 +21,6 @@ Run the PHP server ```using php -S localhost:8000```
 Open your web browser and navigate to ```localhost:8000/login.php```
 You should see the login page, where you can input your login credentials.
 That's it! You now have a working login page that uses PHP to authenticate user login credentials.
+
+
+![login Page](./login.gif)
