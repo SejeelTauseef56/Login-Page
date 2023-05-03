@@ -12,9 +12,11 @@
 <p>To run this project, follow these steps:</p>
 
 <p>Clone the repository onto your local machine using</p>
-``git clone https://github.com/SejeelTauseef56/Login-Page.git``
+```
+git clone https://github.com/SejeelTauseef56/Login-Page.git
+```
 Navigate to the project directory using your terminal/command prompt
-Run the PHP server ``using php -S localhost:8000``
-Open your web browser and navigate to ``localhost:8000/login.php``
+Run the PHP server ```using php -S localhost:8000```
+Open your web browser and navigate to ```localhost:8000/login.php```
 You should see the login page, where you can input your login credentials.
 That's it! You now have a working login page that uses PHP to authenticate user login credentials.
