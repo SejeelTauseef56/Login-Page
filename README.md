@@ -12,10 +12,10 @@
 <p>To run this project, follow these steps:</p>
 
 <p>Clone the repository onto your local machine using</p>
-```
-    git clone https://github.com/SejeelTauseef56/Login-Page.git
-    ```
   
+  ```
+git clone https://github.com/SejeelTauseef56/Login-Page.git
+```
 Navigate to the project directory using your terminal/command prompt
 Run the PHP server ```using php -S localhost:8000```
 Open your web browser and navigate to ```localhost:8000/login.php```
